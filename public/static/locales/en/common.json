@@ -1,0 +1,21 @@
+{
+    "test": "Hello world",
+    "banner": "Test test",
+    "change_locale": "Change language",
+    "login": "Login",
+    "register": "Sign up",
+    "email_address": "Email address",
+    "phone_number": "Phone number",
+    "Contact_title": "Contact information",
+    "company_name": "Hai Phat Investment and Real Estate Trading Joint Stock Company",
+    "company_address": "Address: 2nd floor, The Pride Trade, Service and Housing Complex - An Hung New Urban Area, Ha Dong District - Hanoi City",
+    "company_phone": "Phone number",
+    "company_email": "Email",
+    "company_web": "Website: https://2stay.vn/",
+    "company_hotline": "Hotline",
+    "signin_agree_description": "By joining 2Stay through Facebook, Google, Apple, Phone number or Email sign up, you agree to",
+    "of_2stay": "of 2Stay",
+    "term_of_use": "Terms of use",
+    "privacy_policy": "Privacy policy",
+    "and": "and"
+}

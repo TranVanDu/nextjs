@@ -1,0 +1,20 @@
+{
+    "review_order": "Thêm đánh giá của bạn",
+    "review_homestay": "Đánh giá chỗ nghỉ",
+    "review_transport_supplier": "Đánh giá chuyến đi",
+    "title": "Tiêu đề",
+    "rating": "Đánh giá",
+    "content": "Nội dung đánh giá",
+    "upload_images": "Tải ảnh lên",
+    "terrible": "Rất tệ",
+    "bad": "Tệ",
+    "normal": "Bình thường",
+    "good": "Tốt",
+    "wonderful": "Tuyệt vời",
+    "submit": "Gửi đánh giá",
+    "upload": "Tải lên",
+    "review_error": "Đã có lỗi xảy ra. Vui lòng thử lại.",
+    "stay": "Chỗ nghỉ",
+    "car": "Chuyến đi",
+    "created_at": "Được tạo lúc"
+}

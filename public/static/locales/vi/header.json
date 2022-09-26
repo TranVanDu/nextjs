@@ -1,0 +1,20 @@
+{
+    "host": "Chủ nhà",
+    "profile": "Tài khoản",
+    "my_bookings": "Đơn hàng của tôi",
+    "my_reviews": "Đánh giá của tôi",
+    "inbox": "Tin nhắn",
+    "account_setting": "Cài đặt tài khoản",
+    "wishlist": "Yêu thích",
+    "logout": "Đăng xuất",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout_alert": "Bạn thực sự muốn đăng xuất?",
+    "coupon": "Ưu đãi",
+    "change_password": "Đổi mật khẩu",
+    "notification": "Thông báo",
+    "blog": "Blog",
+    "user_login_warning": "Bạn cần đăng nhập trước khi trở thành chủ nhà",
+    "user_missing_email_and_password": "Bạn cần cập nhật email và mật khẩu trước khi trở thành chủ nhà",
+    "exchange": "Trao đổi kỳ nghỉ"
+}

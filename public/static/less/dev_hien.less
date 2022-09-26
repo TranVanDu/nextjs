@@ -1,0 +1,193 @@
+
+//banner-content-home
+.banner-content-home {
+    margin-top: 50px;
+    color: @white;
+    background-image: url('../images/footer.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 360px;
+    .content-banner {
+        margin: 51px 0 60px;
+        h1.ant-typography {
+            color: @white;
+            margin-top: 60px;
+        }
+        .text-banner {
+            margin-bottom: 30px;
+        }
+         h1.ant-typography {
+        color: @white;
+        margin-top: 51px;
+        }
+        .img-qr-code {
+            width: 124px;
+            height: 124px;
+        }
+        .img-app {
+            cursor: pointer;
+        }
+    }
+   
+}
+//dropdown-account-menu
+.dropdown-account {
+    width: 200px;
+    
+    li {
+        &:first-child {
+            cursor: auto;
+        }        
+        .user-avatar {
+            padding: 13px 16px;
+            box-shadow: 0 1px 0 0 #eeeef0;
+            margin: 0;
+            font-size: 15px;
+            font-weight: 500;
+            color: @black;
+            display: block;            
+        }
+        a:hover {
+            color: @primary-color;
+        }
+        &:last-child {
+            a {
+                box-shadow: none;
+            }
+        }
+        
+    }
+    .user-avatar img {        
+        width: 24px;
+        height: 24px;        
+        border-radius: 50%;
+        margin-right: 8px;
+        object-fit: cover;
+    }
+
+}
+//card-oder-list
+.card-oder-list-trans {
+    &:hover{
+        box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 8%);
+    }
+    .oder-trans-content-wrapper p {
+        margin: 0;
+        font-size: 13px;
+        color: #757575;
+        &.oder-trans-price {
+            font-weight: 600;
+            font-size: 14px;
+            color: @black;
+        }
+    }
+    .oder-trans-content-status {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 20px;
+        color: @primary-color;
+    }
+    .oder-trans-img {
+        object-fit: cover;
+        width: 100%;
+        height: auto;
+    }
+}
+//
+.contact-page {
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 13px;
+    padding-bottom: 40px;
+    @media (min-width: 992px) {
+    font-size: 15px;
+    }
+    h3.ant-typography {
+        border-bottom: 1px solid #EEEEEE;
+        font-size: 20px;
+        padding-bottom: 10px;
+        @media (min-width: 992px) {
+            font-size: 30px;
+        }
+    }
+
+    h4.ant-typography {
+        margin-bottom: 24px;
+        font-size: 16px;
+        @media (min-width: 992px) {
+            font-size: 20px;
+        }
+    }
+    .pr-60 {
+        padding-right: 60px;
+    }
+    svg {
+        color: @primary-color;
+    }
+    iframe {
+        width: 100%;
+    }
+}
+.img-banner {
+    position: relative;
+
+    .img-contact {
+        position: relative;
+    
+        &:after {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top:0; 
+            left:0;
+            background:rgba(0,0,0,0.6);
+            opacity: 0.5;
+        }
+
+        img {
+            height: 450px;
+            object-fit: cover;
+            width: 100%;
+        }
+    }
+
+    .banner-name {
+        position: absolute;
+    top: 45%;
+    left: 44%;
+    text-align: center;
+    color: #fff;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 48px;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    }
+}
+//page exchange-search
+.exchange-search {
+    padding: 24px;
+    border: 1px solid #f0f0f0;
+    border-radius: 8px;
+    margin-bottom: 36px;
+    .ant-form-item {
+        margin-bottom: 0;
+        .ant-select-single {
+            width: 100%  !important;
+            .ant-select-selector {
+                border-radius: 6px;
+            }
+        }
+    }
+    .ant-form-item-label > label {
+        margin-bottom: 0;
+    }
+    button {
+        width: 100%;
+    }
+}
+.exchange-img {
+    border-radius: 8px;
+}

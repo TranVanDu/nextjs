@@ -1,0 +1,20 @@
+{
+    "review_order": "Review Order",
+    "review_homestay": "Review homestay",
+    "review_transport_supplier": "Review trip",
+    "title": "Title",
+    "rating": "Rating value",
+    "content": "Rating content",
+    "upload_images": "Upload images",
+    "terrible": "Terrible",
+    "bad": "Bad",
+    "normal": "Normal",
+    "good": "Good",
+    "wonderful": "Wonderful",
+    "submit": "Submit",
+    "upload": "Choose Images",
+    "review_error": "Error occurs. Please try again.",
+    "stay": "Stay",
+    "car": "Transport",
+    "created_at": "Created at"
+}

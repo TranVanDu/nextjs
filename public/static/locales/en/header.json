@@ -1,0 +1,20 @@
+{
+    "host": "Host",
+    "profile": "Profile",
+    "my_bookings": "My Bookings",
+    "my_reviews": "My Reviews",
+    "inbox": "Inbox",
+    "account_setting": "Account Setting",
+    "wishlist": "Wishlist",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "logout_alert": "You really want to logout?",
+    "coupon": "Promo Codes",
+    "change_password": "Change Password",
+    "notification": "Notification",
+    "blog": "Blog",
+    "user_login_warning": "You have to log in before becoming host",
+    "user_missing_email_and_password": "You have to update email and password before becoming host",
+    "exchange": "Exchange"
+}
